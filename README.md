@@ -1,5 +1,6 @@
 - 😎 Elias Michelon
 - 👾 Pentest
+- 🖥 Desenvolvimento de Software Multiplataforma
 - 🛸 Jaú - SP
 - ☠️ 20y
 
